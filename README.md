@@ -1,5 +1,1 @@
-# Sensors
-This repo contains the codes of the sensors I'm using in the environmental robot.
-
-# Edit 
-This repo now contains my robotics exp, tests, etc...  
+This repository contains the code for the sensors used in my environmental robot. It now also includes my robotics experiments, tests, and more. Currently, it covers the basics. 
